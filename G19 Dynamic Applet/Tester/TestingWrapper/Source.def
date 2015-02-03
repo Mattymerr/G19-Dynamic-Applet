@@ -1,0 +1,16 @@
+LIBRARY "LogitechLcd"
+EXPORTS
+LogiLcdInit
+LogiLcdIsConnected
+LogiLcdIsButtonPressed
+LogiLcdUpdate
+LogiLcdShutdown
+LogiLcdMonoSetBackground
+LogiLcdMonoSetText
+LogiLcdColorSetBackground
+LogiLcdColorSetTitle
+LogiLcdColorSetText
+LogiLcdColorSetBackgroundUDK
+LogiLcdColorResetBackgroundUDK
+LogiLcdMonoSetBackgroundUDK
+LogiLcdMonoResetBackgroundUDK

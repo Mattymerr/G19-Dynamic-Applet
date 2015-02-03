@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "G19 Dynamic Applet DLL", "DLL\G19 Dynamic Applet DLL\G19 Dynamic Applet DLL.vcxproj", "{CE5EA582-16A1-4174-B21F-2FBAD30437B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tester", "Tester\Tester\Tester.vcxproj", "{3749026A-8A1C-404C-A9B8-F24A13812064}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestingWrapper", "Tester\TestingWrapper\TestingWrapper.vcxproj", "{55FB71A3-4EA9-438F-835A-77B46C355B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5EA582-16A1-4174-B21F-2FBAD30437B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE5EA582-16A1-4174-B21F-2FBAD30437B2}.Debug|Win32.Build.0 = Debug|Win32
+		{CE5EA582-16A1-4174-B21F-2FBAD30437B2}.Release|Win32.ActiveCfg = Release|Win32
+		{CE5EA582-16A1-4174-B21F-2FBAD30437B2}.Release|Win32.Build.0 = Release|Win32
+		{3749026A-8A1C-404C-A9B8-F24A13812064}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3749026A-8A1C-404C-A9B8-F24A13812064}.Debug|Win32.Build.0 = Debug|Win32
+		{3749026A-8A1C-404C-A9B8-F24A13812064}.Release|Win32.ActiveCfg = Release|Win32
+		{3749026A-8A1C-404C-A9B8-F24A13812064}.Release|Win32.Build.0 = Release|Win32
+		{55FB71A3-4EA9-438F-835A-77B46C355B21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55FB71A3-4EA9-438F-835A-77B46C355B21}.Debug|Win32.Build.0 = Debug|Win32
+		{55FB71A3-4EA9-438F-835A-77B46C355B21}.Release|Win32.ActiveCfg = Release|Win32
+		{55FB71A3-4EA9-438F-835A-77B46C355B21}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
